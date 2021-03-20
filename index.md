@@ -1,7 +1,16 @@
-## Welcome to my website
+## This is my first web page
+welcome
 
-Hi hi hi
+im violet! 
 
-### Some things
+I have a mom, dad, and sister. i like LEGO i love animals (like coyotes and wolves). 
 
-we'll talk about here
+
+### Some more of my favorite things are
+
+- pizza
+- juice 
+- art
+
+### fun fact about me
+i'm 8.
